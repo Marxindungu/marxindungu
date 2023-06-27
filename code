@@ -8,6 +8,6 @@
 ------after deployment------
 1.git init
 3.git add .
-4.git commit -a "bmi calc"
+4.git commit -m "bmi calc"
 6.git push -u origin master
 
