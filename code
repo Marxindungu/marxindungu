@@ -8,6 +8,6 @@
 ------after deployment------
 1.git init
 3.git add .
-4.git commit -m "sets"
+4.git commit -m "Forloop"
 6.git push -u origin master
 
