@@ -8,6 +8,5 @@
 ------after deployment------
 1.git init
 3.git add .
-4.git commit -m "DSA"
-6.git push -u origin master
-
+4.git commit -m "sets"
+6.git push -u original master
