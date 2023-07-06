@@ -1,0 +1,9 @@
+#create another table for students
+Must have 1...name
+             phone
+             age
+             gender
+             studentcode
+             ----Student created successfully----
+
+           2.display the students created
